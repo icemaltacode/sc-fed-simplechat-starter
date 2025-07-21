@@ -1,1 +1,2 @@
-const BASE_URL = 'https://rcwwocnqq8.execute-api.eu-south-1.amazonaws.com/prod/chat'
+const BASE_URL =
+  "https://wdxpqav9be.execute-api.eu-south-1.amazonaws.com/prod/chat";
